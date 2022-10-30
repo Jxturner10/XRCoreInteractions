@@ -1,0 +1,36 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Volumes/BatPC/2021.1.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/jamesturner/Documents/GitHub/XRCoreInteractions
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49411
+Successfully changed project path to: /Users/jamesturner/Documents/GitHub/XRCoreInteractions
+/Users/jamesturner/Documents/GitHub/XRCoreInteractions
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 127.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.11f1 (4d8c25f7477e)
+[Subsystems] Discovering subsystems at path /Volumes/BatPC/2021.1.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jamesturner/Documents/GitHub/XRCoreInteractions/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2022-10-24 23:57:31.725 Unity[5985:178853] Color LCD preferred device: Intel Iris Pro Graphics (low power)
+2022-10-24 23:57:31.725 Unity[5985:178853] Metal devices available: 1
+2022-10-24 23:57:31.725 Unity[5985:178853] 0: Intel Iris Pro Graphics (low power)
+2022-10-24 23:57:31.725 Unity[5985:178853] Using device Intel Iris Pro Graphics (low power)
+Initializing Metal device caps: Intel Iris Pro Graphics
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Volumes/BatPC/2021.1.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/BatPC/2021.1.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Volumes/BatPC/2021.1.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56985
+Begin MonoManager ReloadAssembly

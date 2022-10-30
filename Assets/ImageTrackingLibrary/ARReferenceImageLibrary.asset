@@ -12,16 +12,256 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ARReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 5409580093345661765
-  m_GuidHigh: 17850381428041628299
+  m_GuidLow: 5620206807503488942
+  m_GuidHigh: 14279801670038674312
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5287823817847694089
-      m_GuidHigh: 15849648074915301560
+      m_GuidLow: 5650059989793907247
+      m_GuidHigh: 14689925877971075736
     m_SerializedTextureGuid:
-      m_GuidLow: 10700521416964262143
-      m_GuidHigh: 2969513957734300137
-    m_Size: {x: 0.1, y: 0.0967742}
+      m_GuidLow: 8359234368075045606
+      m_GuidHigh: 12096228769370694843
+    m_Size: {x: 0.3, y: 0.3857143}
     m_SpecifySize: 1
-    m_Name: Trigger_1
+    m_Name: 100thFS
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4631566192724445469
+      m_GuidHigh: 15862805403580898696
+    m_SerializedTextureGuid:
+      m_GuidLow: 11874035973274504574
+      m_GuidHigh: 51302313660350169
+    m_Size: {x: 0.3, y: 0.3122867}
+    m_SpecifySize: 1
+    m_Name: BillieBlue
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4937828597596680519
+      m_GuidHigh: 2014627149650133126
+    m_SerializedTextureGuid:
+      m_GuidLow: 6073600948355383405
+      m_GuidHigh: 100191616224016458
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: 512Icon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5624914353395340092
+      m_GuidHigh: 7808710388466582703
+    m_SerializedTextureGuid:
+      m_GuidLow: 3775148964897857454
+      m_GuidHigh: 18202623228476770664
+    m_Size: {x: 0.3, y: 0.22500001}
+    m_SpecifySize: 1
+    m_Name: musicismagic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5126327339397456724
+      m_GuidHigh: 7999490145232290221
+    m_SerializedTextureGuid:
+      m_GuidLow: 17648194221410033483
+      m_GuidHigh: 11536379706893452233
+    m_Size: {x: 0.3, y: 0.22500001}
+    m_SpecifySize: 1
+    m_Name: velar_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4848351340670029462
+      m_GuidHigh: 15569970360970852031
+    m_SerializedTextureGuid:
+      m_GuidLow: 14187725449536170325
+      m_GuidHigh: 5599294712258995129
+    m_Size: {x: 0.3, y: 0.478803}
+    m_SpecifySize: 1
+    m_Name: DetroitGP
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5251457652478318691
+      m_GuidHigh: 11518735630451480983
+    m_SerializedTextureGuid:
+      m_GuidLow: 10727084336701563301
+      m_GuidHigh: 414595768641041562
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mitchell-
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5511020844382486922
+      m_GuidHigh: 3742321273936862379
+    m_SerializedTextureGuid:
+      m_GuidLow: 1456930961161394677
+      m_GuidHigh: 15085883726382660378
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mitchell-001
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5756404488674707367
+      m_GuidHigh: 13659898649352096917
+    m_SerializedTextureGuid:
+      m_GuidLow: 8399960097365525452
+      m_GuidHigh: 9058995682444694680
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: BlackPower_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5636711098158883874
+      m_GuidHigh: 7409754433455130282
+    m_SerializedTextureGuid:
+      m_GuidLow: 11822174187996942364
+      m_GuidHigh: 9913802284817577755
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: CookedBooksLogo_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5203188363014140890
+      m_GuidHigh: 14579642734869897870
+    m_SerializedTextureGuid:
+      m_GuidLow: 16449559888981537133
+      m_GuidHigh: 8479455482690474619
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Fiend_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5221158112804607092
+      m_GuidHigh: 5916646789213503621
+    m_SerializedTextureGuid:
+      m_GuidLow: 12997834350608264528
+      m_GuidHigh: 11505512615150016811
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: JAmesHenry_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011278410142447436
+      m_GuidHigh: 8706216510298691721
+    m_SerializedTextureGuid:
+      m_GuidLow: 9541252365658571927
+      m_GuidHigh: 5929425038476571177
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: JetLife
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4743062069751424819
+      m_GuidHigh: 4661665971849124023
+    m_SerializedTextureGuid:
+      m_GuidLow: 4927139941888338117
+      m_GuidHigh: 9300116758910177720
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: KRND_hat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4958665928810883693
+      m_GuidHigh: 2202141510386747546
+    m_SerializedTextureGuid:
+      m_GuidLow: 14194929527730387278
+      m_GuidHigh: 9474962888025675864
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LarryJune_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4857877158075880026
+      m_GuidHigh: 14291069377964932286
+    m_SerializedTextureGuid:
+      m_GuidLow: 16493172433358268012
+      m_GuidHigh: 17308041658737994779
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LansingPharaohs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5225403954658354489
+      m_GuidHigh: 3909796069831575731
+    m_SerializedTextureGuid:
+      m_GuidLow: 9563658089047623547
+      m_GuidHigh: 15277176501960776746
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PLAYMAKRBaseBall
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4794110139655103024
+      m_GuidHigh: 11548012614299384485
+    m_SerializedTextureGuid:
+      m_GuidLow: 15277231164480130579
+      m_GuidHigh: 15570777925332320378
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PM_Football_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5439903890749743346
+      m_GuidHigh: 8958846634537248660
+    m_SerializedTextureGuid:
+      m_GuidLow: 13041064553674024491
+      m_GuidHigh: 12224486007072360043
+    m_Size: {x: 1.107595, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: roll-a-joint
+    m_Texture: {fileID: 2800000, guid: f6ada62b2b1db4fb6b06485d4119a6a9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4978009718232201317
+      m_GuidHigh: 6335546304046145466
+    m_SerializedTextureGuid:
+      m_GuidLow: 11841700730115139393
+      m_GuidHigh: 6621735464356036667
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LOGO BRAND IMAGE
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5187958081005131571
+      m_GuidHigh: 16154862798177414048
+    m_SerializedTextureGuid:
+      m_GuidLow: 3786989497124890523
+      m_GuidHigh: 5167768562726373834
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: new flower district logo-green and white
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5333352394451648450
+      m_GuidHigh: 2325916782528144021
+    m_SerializedTextureGuid:
+      m_GuidLow: 3782308161369638404
+      m_GuidHigh: 6792258402258430746
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SleepyBear_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5412518782898627761
+      m_GuidHigh: 12145460713782320786
+    m_SerializedTextureGuid:
+      m_GuidLow: 13028418295226414357
+      m_GuidHigh: 13407946444409773768
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: WizKhalifa
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4738979700843686662
+      m_GuidHigh: 2484163955559484092
+    m_SerializedTextureGuid:
+      m_GuidLow: 8394419077971094156
+      m_GuidHigh: 6309239903634798682
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SandySpeaksRBG_scaled
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5583459612627603902
+      m_GuidHigh: 9929081812481463695
+    m_SerializedTextureGuid:
+      m_GuidLow: 11818579866111841489
+      m_GuidHigh: 12947927787733008232
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PM_Soccer
     m_Texture: {fileID: 0}

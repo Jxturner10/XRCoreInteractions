@@ -1,0 +1,11 @@
+Model Information:
+* title:	Salsa Dancing
+* source:	https://sketchfab.com/3d-models/salsa-dancing-320acede1a5747f495bebed0702da256
+* author:	nickelinnovations (https://sketchfab.com/nickelinnovations)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Salsa Dancing" (https://sketchfab.com/3d-models/salsa-dancing-320acede1a5747f495bebed0702da256) by nickelinnovations (https://sketchfab.com/nickelinnovations) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
